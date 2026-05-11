@@ -13,7 +13,7 @@
         <div id="app"></div>
     
         <!-- Подключаем античит ПЕРВЫМ -->
-        <script src="lambda_guard.js"></script>
+        <script src="https://kotnot.github.io/Lambda-Guard/lambda_guard.js"></script>
     
         <!-- Ваши разрешённые скрипты -->
 	    <!-- 
